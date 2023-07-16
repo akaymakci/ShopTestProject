@@ -86,9 +86,10 @@ public class _01_BeymenTest {
 
         String productName = dc.findAndGetText("productName");
         productPrice =dc.findAndGetText("productPrice");
-
+        System.out.println("*********************************************");
         System.out.println("productName = " + productName);
         System.out.println("productPrice = " + productPrice);
+        System.out.println("*********************************************");
 
         try {
             FileWriter myWriter = new FileWriter("src/test/java/TextFile/ProductInfo.txt");

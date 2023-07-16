@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86754864-9005-4e43-9662-eebe1eb44932" name="Changes" comment="ShopTestProject update" />
+    <list default="true" id="86754864-9005-4e43-9662-eebe1eb44932" name="Changes" comment="name changed to ShopProjectUpdate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689518607150</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="name changed to ShopProjectUpdate">
+      <option name="closed" value="true" />
+      <created>1689523359448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689523359448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,7 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ShopTestProject update" />
-    <option name="LAST_COMMIT_MESSAGE" value="ShopTestProject update" />
+    <MESSAGE value="name changed to ShopProjectUpdate" />
+    <option name="LAST_COMMIT_MESSAGE" value="name changed to ShopProjectUpdate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
