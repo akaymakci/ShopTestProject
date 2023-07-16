@@ -1,4 +1,4 @@
-# ShopTestProject1The project where test user storie created for Beymen were tested.
+#The project where test user storie created for Beymen were tested.
 
 **Case** - As a guest user, verify the ability to search, add to cart, and delete items from the cart
 |Step                          |Test Data| Expected Result| Actual Result|Status|
